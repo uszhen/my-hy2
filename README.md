@@ -1,6 +1,12 @@
-# ![Hysteria 2](logo.svg)
+# 服务器代理服务
 
-[![License][1]][2] [![Release][3]][4] [![Telegram][5]][6] [![Discussions][7]][8]
+如果你觉得本项目对你有用,而且你也恰巧有这方面的需求,你也可以选择通过我的购买链接赞助我  
+- [搬瓦工GIA服务器](https://bandwagonhost.com/aff.php?aff=41846)  - - - 仅推荐购买GIA套餐 - - -   
+
+如果你希望购买一些现成的代理服务,可选择下述代理服务
+- [搬瓦工官方机场](https://justmysocks.net/members/aff.php?aff=16884)  
+
+
 
 [1]: https://img.shields.io/badge/license-MIT-blue
 [2]: LICENSE.md
@@ -13,11 +19,6 @@
 
 <h2 style="text-align: center;">Hysteria is a powerful, lightning fast and censorship resistant proxy.</h2>
 
-### [Get Started](https://v2.hysteria.network/)
-
-### [中文文档](https://v2.hysteria.network/zh/)
-
-### [Hysteria 1.x (legacy)](https://v1.hysteria.network/)
 
 ---
 
@@ -48,13 +49,9 @@
   </div>
   
   <div>
-    <h3>🤗 Chill and supportive</h3>
-    <p>We have well-documented specifications and code for developers to contribute and/or build their own apps. And a helpful community, too.</p>
+    <h3>🤗 Cards on the table</h3>
+    <p>We have well-documented specifications and code for developers to contribute and build their own apps. And a helpful community, too.</p>
   </div>
 </div>
 
 ---
-
-**If you find Hysteria useful, consider giving it a ⭐️!**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=apernet/hysteria&type=Date)](https://star-history.com/#apernet/hysteria&Date)
